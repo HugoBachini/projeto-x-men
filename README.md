@@ -1,7 +1,7 @@
-# Projeto
-Este é um seletor de personagens que teve como temática a série de filmes "X-Men" e que foi desenvolvido durante a semana "Do zero ao programador contratado" no canal [@DevemDobro](https://www.youtube.com/@DevemDobro), no youtube.
+## Projeto
+Este é um seletor de personagens que teve como temática a série de filmes "X-Men" e que foi desenvolvido durante a semana "Do zero ao programador contratado" no canal [@DevemDobro](https://www.youtube.com/@DevemDobro).
 
-# Tecnologias
+## Tecnologias
 Nesse projeto foram utilizadas as seguintes tecnologias:
 
 - HTML;
